@@ -5,3 +5,4 @@ And the third file is a .csv file containing a large database.
 The .csv file is required for both the EDA and Model components.
 The EDA and Model files are in .ipynb format for convenient evaluation and work with the project.
 The entire project is written entirely in Polish!
+The following libraries are required for the models to run: pandas, numpy, seaborn, matplotlib, seaborn, sklearn
